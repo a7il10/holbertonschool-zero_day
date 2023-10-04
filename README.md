@@ -1,1 +1,1 @@
-# holbertonschool-zero_day
+# This school is so cool!
